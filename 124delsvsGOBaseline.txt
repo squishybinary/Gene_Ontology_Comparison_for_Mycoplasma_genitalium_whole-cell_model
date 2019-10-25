@@ -1,0 +1,251 @@
+	GeneID	GOID	GOTerms
+0	MG_434	GO:0044210	de novo' CTP biosynthetic process
+1	MG_058	GO:0006015	5-phosphoribose 1-diphosphate biosynthetic process
+2	MG_058	GO:0009116	nucleoside metabolic process
+3	MG_058	GO:0009165	nucleotide biosynthetic process
+4	MG_299	GO:0006085	acetyl-CoA biosynthetic process
+5	MG_357	GO:0006085	acetyl-CoA biosynthetic process
+6	MG_357	GO:0006082	organic acid metabolic process
+7	MG_276	GO:0006168	adenine salvage
+8	MG_276	GO:0044209	AMP salvage
+9	MG_276	GO:0006166	purine ribonucleoside salvage
+10	MG_301	GO:0044650	adhesion of symbiont to host cell
+11	MG_301	GO:0006006	glucose metabolic process
+12	MG_301	GO:0006096	glycolytic process
+13	MG_292	GO:0006419	alanyl-tRNA aminoacylation
+14	MG_171	GO:0044209	AMP salvage
+15	MG_378	GO:0006420	arginyl-tRNA aminoacylation
+16	MG_113	GO:0006421	asparaginyl-tRNA aminoacylation
+21	MG_400	GO:0015986	ATP synthesis coupled proton transport
+23	MG_402	GO:0015986	ATP synthesis coupled proton transport
+30	MG_453	GO:0009058	biosynthetic process
+31	MG_453	GO:0006011	UDP-glucose metabolic process
+32	MG_053	GO:0005975	carbohydrate metabolic process
+35	MG_112	GO:0005975	carbohydrate metabolic process
+36	MG_396	GO:0005975	carbohydrate metabolic process
+37	MG_396	GO:0009052	"pentose-phosphate shunt	 non-oxidative branch "
+41	MG_212	GO:0016024	CDP-diacylglycerol biosynthetic process
+42	MG_437	GO:0016024	CDP-diacylglycerol biosynthetic process
+47	MG_224	GO:0007049	cell cycle
+48	MG_224	GO:0051301	cell division
+49	MG_238	GO:0007049	cell cycle
+50	MG_238	GO:0051301	cell division
+51	MG_238	GO:0006457	protein folding
+52	MG_335	GO:0007049	cell cycle
+53	MG_335	GO:0051301	cell division
+56	MG_124	GO:0045454	cell redox homeostasis
+57	MG_124	GO:0006662	glycerol ether metabolic process
+58	MG_271	GO:0045454	cell redox homeostasis
+59	MG_271	GO:0006096	glycolytic process
+60	MG_275	GO:0045454	cell redox homeostasis
+64	MG_298	GO:0030261	chromosome condensation
+65	MG_298	GO:0007062	sister chromatid cohesion
+67	MG_382	GO:0044211	CTP salvage
+68	MG_382	GO:0044206	UMP salvage
+69	MG_253	GO:0006423	cysteinyl-tRNA aminoacylation
+81	MG_229	GO:0009263	deoxyribonucleotide biosynthetic process
+82	MG_229	GO:0006260	DNA replication
+85	MG_034	GO:0071897	DNA biosynthetic process
+97	MG_206	GO:0006281	DNA repair
+98	MG_206	GO:0009432	SOS response
+102	MG_254	GO:0006281	DNA repair
+103	MG_254	GO:0006260	DNA replication
+104	MG_001	GO:0006260	DNA replication
+105	MG_019	GO:0006260	DNA replication
+106	MG_019	GO:0006457	protein folding
+107	MG_019	GO:0009408	response to heat
+108	MG_031	GO:0006260	DNA replication
+109	MG_231	GO:0006260	DNA replication
+110	MG_261	GO:0006260	DNA replication
+111	MG_315	GO:0006260	DNA replication
+112	MG_419	GO:0006260	DNA replication
+113	MG_469	GO:0006270	DNA replication initiation
+114	MG_469	GO:0006275	regulation of DNA replication
+115	MG_094	GO:0006269	"DNA replication	 synthesis of RNA primer "
+117	MG_003	GO:0006265	DNA topological change
+118	MG_004	GO:0006265	DNA topological change
+119	MG_122	GO:0006265	DNA topological change
+120	MG_203	GO:0006265	DNA topological change
+121	MG_204	GO:0006265	DNA topological change
+122	MG_249	GO:0006352	"DNA-templated transcription	 initiation "
+123	MG_428	GO:0006352	"DNA-templated transcription	 initiation "
+124	MG_141	GO:0006353	"DNA-templated transcription	 termination "
+125	MG_141	GO:0031564	transcription antitermination
+126	MG_006	GO:0006233	dTDP biosynthetic process
+129	MG_517	GO:0009246	enterobacterial common antigen biosynthetic process
+130	MG_517	GO:0006071	glycerol metabolic process
+131	MG_517	GO:0046467	membrane lipid biosynthetic process
+132	MG_145	GO:0006747	FAD biosynthetic process
+133	MG_145	GO:0009398	FMN biosynthetic process
+134	MG_145	GO:0009231	riboflavin biosynthetic process
+136	MG_287	GO:0006633	fatty acid biosynthetic process
+137	MG_368	GO:0006633	fatty acid biosynthetic process
+138	MG_368	GO:0008654	phospholipid biosynthetic process
+139	MG_023	GO:0030388	"fructose 1	6-bisphosphate metabolic process "
+140	MG_023	GO:0006096	glycolytic process
+141	MG_215	GO:0006002	fructose 6-phosphate metabolic process
+142	MG_118	GO:0006012	galactose metabolic process
+143	MG_111	GO:0006094	gluconeogenesis
+144	MG_111	GO:0006096	glycolytic process
+145	MG_431	GO:0006094	gluconeogenesis
+146	MG_431	GO:0006096	glycolytic process
+147	MG_431	GO:0006098	pentose-phosphate shunt
+148	MG_430	GO:0006007	glucose catabolic process
+149	MG_430	GO:0006096	glycolytic process
+150	MG_462	GO:0006424	glutamyl-tRNA aminoacylation
+152	MG_369	GO:0006071	glycerol metabolic process
+153	MG_038	GO:0006072	glycerol-3-phosphate metabolic process
+154	MG_038	GO:0019563	glycerol catabolic process
+155	MG_038	GO:0006071	glycerol metabolic process
+156	MG_228	GO:0006545	glycine biosynthetic process
+157	MG_228	GO:0009165	nucleotide biosynthetic process
+158	MG_228	GO:0006730	one-carbon metabolic process
+159	MG_394	GO:0006545	glycine biosynthetic process
+160	MG_394	GO:0035999	tetrahydrofolate interconversion
+161	MG_272	GO:0006096	glycolytic process
+162	MG_273	GO:0006096	glycolytic process
+163	MG_274	GO:0006096	glycolytic process
+164	MG_300	GO:0006096	glycolytic process
+165	MG_407	GO:0006096	glycolytic process
+166	MG_251	GO:0006426	glycyl-tRNA aminoacylation
+167	MG_278	GO:0015970	guanosine tetraphosphate biosynthetic process
+168	MG_013	GO:0000105	histidine biosynthetic process
+169	MG_013	GO:0009086	methionine biosynthetic process
+170	MG_013	GO:0006164	purine nucleotide biosynthetic process
+171	MG_035	GO:0006427	histidyl-tRNA aminoacylation
+172	MG_458	GO:0032264	IMP salvage
+173	MG_458	GO:0006166	purine ribonucleoside salvage
+174	MG_345	GO:0006428	isoleucyl-tRNA aminoacylation
+175	MG_266	GO:0006429	leucyl-tRNA aminoacylation
+176	MG_293	GO:0006629	lipid metabolic process
+180	MG_136	GO:0006430	lysyl-tRNA aminoacylation
+181	MG_066	GO:0008152	metabolic process
+182	MG_021	GO:0006431	methionyl-tRNA aminoacylation
+184	MG_367	GO:0006397	mRNA processing
+185	MG_367	GO:0016075	rRNA catabolic process
+186	MG_367	GO:0006364	rRNA processing
+187	MG_037	GO:0009435	NAD biosynthetic process
+188	MG_383	GO:0009435	NAD biosynthetic process
+189	MG_128	GO:0019674	NAD metabolic process
+190	MG_128	GO:0006741	NADP biosynthetic process
+191	MG_049	GO:0009116	nucleoside metabolic process
+192	MG_073	GO:0006289	nucleotide-excision repair
+193	MG_073	GO:0009432	SOS response
+194	MG_421	GO:0006289	nucleotide-excision repair
+195	MG_421	GO:0009432	SOS response
+196	MG_047	GO:0006730	one-carbon metabolic process
+197	MG_047	GO:0006556	S-adenosylmethionine biosynthetic process
+198	MG_194	GO:0006432	phenylalanyl-tRNA aminoacylation
+199	MG_195	GO:0006432	phenylalanyl-tRNA aminoacylation
+201	MG_351	GO:0006796	phosphate-containing compound metabolic process
+202	MG_114	GO:0006655	phosphatidylglycerol biosynthetic process
+203	MG_041	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system
+204	MG_041	GO:0006355	"regulation of transcription	 DNA-templated "
+205	MG_041	GO:0006351	"transcription	 DNA-templated "
+207	MG_069	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system
+208	MG_429	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system
+209	MG_323	GO:0006813	potassium ion transport
+210	MG_283	GO:0006433	prolyl-tRNA aminoacylation
+211	MG_239	GO:0030163	protein catabolic process
+212	MG_201	GO:0006457	protein folding
+213	MG_305	GO:0006457	protein folding
+219	MG_270	GO:0009249	protein lipoylation
+225	MG_077	GO:0015031	protein transport
+226	MG_078	GO:0015031	protein transport
+227	MG_079	GO:0015031	protein transport
+228	MG_080	GO:0015031	protein transport
+230	MG_182	GO:0001522	pseudouridine synthesis
+231	MG_182	GO:0008033	tRNA processing
+234	MG_051	GO:0006206	pyrimidine nucleobase metabolic process
+235	MG_051	GO:0006213	pyrimidine nucleoside metabolic process
+236	MG_282	GO:0032784	"regulation of DNA-templated transcription	 elongation "
+237	MG_282	GO:0006351	"transcription	 DNA-templated "
+238	MG_022	GO:0006355	"regulation of transcription	 DNA-templated "
+239	MG_022	GO:0006351	"transcription	 DNA-templated "
+242	MG_082	GO:0006417	regulation of translation
+243	MG_082	GO:0006412	translation
+244	MG_098	GO:0006450	regulation of translational fidelity
+245	MG_102	GO:0019430	removal of superoxide radicals
+249	MG_361	GO:0042254	ribosome biogenesis
+250	MG_361	GO:0006412	translation
+251	MG_387	GO:0042254	ribosome biogenesis
+256	MG_005	GO:0097056	selenocysteinyl-tRNA(Sec) biosynthetic process
+257	MG_005	GO:0006434	seryl-tRNA aminoacylation
+259	MG_297	GO:0006614	SRP-dependent cotranslational protein targeting to membrane
+260	MG_372	GO:0009228	thiamine biosynthetic process
+261	MG_372	GO:0009229	thiamine diphosphate biosynthetic process
+262	MG_372	GO:0034227	tRNA thio-modification
+263	MG_375	GO:0006435	threonyl-tRNA aminoacylation
+265	MG_177	GO:0006351	"transcription	 DNA-templated "
+266	MG_221	GO:0006351	"transcription	 DNA-templated "
+267	MG_340	GO:0006351	"transcription	 DNA-templated "
+268	MG_341	GO:0006351	"transcription	 DNA-templated "
+269	MG_473	GO:0006412	translation
+270	MG_070	GO:0006412	translation
+271	MG_081	GO:0006412	translation
+272	MG_087	GO:0006412	translation
+273	MG_088	GO:0006412	translation
+274	MG_090	GO:0006412	translation
+275	MG_092	GO:0006412	translation
+276	MG_093	GO:0006412	translation
+277	MG_099	GO:0006412	translation
+278	MG_100	GO:0006412	translation
+279	MG_106	GO:0006412	translation
+280	MG_150	GO:0006412	translation
+281	MG_151	GO:0006412	translation
+282	MG_152	GO:0006412	translation
+283	MG_153	GO:0006412	translation
+284	MG_154	GO:0006412	translation
+285	MG_155	GO:0006412	translation
+286	MG_156	GO:0006412	translation
+287	MG_157	GO:0006412	translation
+288	MG_158	GO:0006412	translation
+289	MG_159	GO:0006412	translation
+290	MG_160	GO:0006412	translation
+291	MG_161	GO:0006412	translation
+292	MG_162	GO:0006412	translation
+293	MG_163	GO:0006412	translation
+294	MG_164	GO:0006412	translation
+295	MG_165	GO:0006412	translation
+296	MG_166	GO:0006412	translation
+297	MG_167	GO:0006412	translation
+298	MG_168	GO:0006412	translation
+299	MG_169	GO:0006412	translation
+300	MG_174	GO:0006412	translation
+301	MG_175	GO:0006412	translation
+302	MG_176	GO:0006412	translation
+303	MG_178	GO:0006412	translation
+304	MG_197	GO:0006412	translation
+305	MG_198	GO:0006412	translation
+306	MG_481	GO:0006412	translation
+307	MG_232	GO:0006412	translation
+308	MG_234	GO:0006412	translation
+309	MG_257	GO:0006412	translation
+310	MG_311	GO:0006412	translation
+311	MG_325	GO:0006412	translation
+312	MG_362	GO:0006412	translation
+313	MG_363	GO:0006412	translation
+314	MG_522	GO:0006412	translation
+315	MG_417	GO:0006412	translation
+316	MG_418	GO:0006412	translation
+317	MG_424	GO:0006412	translation
+318	MG_426	GO:0006412	translation
+319	MG_435	GO:0006412	translation
+320	MG_444	GO:0006412	translation
+321	MG_446	GO:0006412	translation
+322	MG_466	GO:0006412	translation
+323	MG_043	GO:0006810	transport
+324	MG_044	GO:0006810	transport
+327	MG_179	GO:0006810	transport
+328	MG_180	GO:0006810	transport
+331	MG_289	GO:0006810	transport
+332	MG_291	GO:0006810	transport
+333	MG_036	GO:0006418	tRNA aminoacylation for protein translation
+334	MG_008	GO:0006400	tRNA modification
+335	MG_084	GO:0008033	tRNA processing
+336	MG_295	GO:0008033	tRNA processing
+338	MG_465	GO:0008033	tRNA processing
+341	MG_379	GO:0002098	tRNA wobble uridine modification
+342	MG_126	GO:0006436	tryptophanyl-tRNA aminoacylation
+343	MG_455	GO:0006437	tyrosyl-tRNA aminoacylation
+346	MG_334	GO:0006438	valyl-tRNA aminoacylation

@@ -1,0 +1,260 @@
+Gene Names 	Gene ontology (biological process) 1st	Gene ontology (biological process) 2nd	Gene ontology (biological process) 3rd
+MG_434	'de novo' CTP biosynthetic process 		
+MG_058	5-phosphoribose 1-diphosphate biosynthetic process 	nucleoside metabolic process 	nucleotide biosynthetic process 
+MG_299	acetyl-CoA biosynthetic process 		
+MG_357	acetyl-CoA biosynthetic process 	organic acid metabolic process 	
+MG_276	adenine salvage 	AMP salvage 	purine ribonucleoside salvage 
+MG_301	adhesion of symbiont to host cell 	glucose metabolic process 	glycolytic process 
+MG_292	alanyl-tRNA aminoacylation 		
+MG_171	AMP salvage 		
+MG_378	arginyl-tRNA aminoacylation 		
+MG_113	asparaginyl-tRNA aminoacylation 		
+MG_404	ATP hydrolysis coupled proton transport 	ATP synthesis coupled proton transport 	
+MG_398	ATP synthesis coupled proton transport 		
+MG_399	ATP synthesis coupled proton transport 		
+MG_400	ATP synthesis coupled proton transport 		
+MG_401	ATP synthesis coupled proton transport 		
+MG_402	ATP synthesis coupled proton transport 		
+MG_403	ATP synthesis coupled proton transport 		
+MG_405	ATP synthesis coupled proton transport 		
+MG_097	base-excision repair 		
+MG_498	base-excision repair 	nucleotide-excision repair 	
+MG_240	biosynthetic process 		
+MG_453	biosynthetic process 	UDP-glucose metabolic process 	
+MG_053	carbohydrate metabolic process 		
+MG_085	carbohydrate metabolic process 	regulation of carbohydrate metabolic process 	
+MG_112	carbohydrate metabolic process 		
+MG_396	carbohydrate metabolic process 	pentose-phosphate shunt, non-oxidative branch 	
+MG_460	carbohydrate metabolic process 	carboxylic acid metabolic process 	
+MG_119	carbohydrate transport 		
+MG_212	CDP-diacylglycerol biosynthetic process 		
+MG_437	CDP-diacylglycerol biosynthetic process 		
+MG_192	cell adhesion 		
+MG_213	cell cycle 	cell division 	chromosome segregation 
+MG_224	cell cycle 	cell division 	
+MG_238	cell cycle 	cell division 	protein folding 
+MG_335	cell cycle 	cell division 	
+MG_214	cell division 	chromosome separation 	
+MG_124	cell redox homeostasis 	glycerol ether metabolic process 	
+MG_271	cell redox homeostasis 	glycolytic process 	
+MG_275	cell redox homeostasis 		
+MG_409	cellular phosphate ion homeostasis 	negative regulation of phosphate metabolic process 	
+MG_012	cellular protein modification process 		
+MG_298	chromosome condensation 	sister chromatid cohesion 	
+MG_264	coenzyme A biosynthetic process 		
+MG_382	CTP salvage 	UMP salvage 	
+MG_253	cysteinyl-tRNA aminoacylation 		
+MG_191	cytoadherence to microvasculature, mediated by symbiont protein 		
+MG_218	cytoadherence to microvasculature, mediated by symbiont protein 	pathogenesis 	
+MG_312	cytoadherence to microvasculature, mediated by symbiont protein 	pathogenesis 	
+MG_317	cytoadherence to microvasculature, mediated by symbiont protein 	pathogenesis 	
+MG_318	cytoadherence to microvasculature, mediated by symbiont protein 	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules 	pathogenesis 
+MG_386	cytoadherence to microvasculature, mediated by symbiont protein 		
+MG_229	deoxyribonucleotide biosynthetic process 	DNA replication 	
+MG_050	deoxyribonucleotide catabolic process 	deoxyribose phosphate catabolic process 	
+MG_034	DNA biosynthetic process 		
+MG_339	DNA recombination 	DNA repair 	SOS response 
+MG_352	DNA recombination 	DNA repair 	
+MG_358	DNA recombination 	DNA repair 	SOS response 
+MG_359	DNA recombination 	DNA repair 	SOS response 
+MG_206	DNA repair 	SOS response 	
+MG_235	DNA repair 		
+MG_244	DNA repair 	DNA replication 	
+MG_254	DNA repair 	DNA replication 	
+MG_001	DNA replication 		
+MG_019	DNA replication 	protein folding 	response to heat 
+MG_031	DNA replication 		
+MG_231	DNA replication 		
+MG_261	DNA replication 		
+MG_315	DNA replication 		
+MG_419	DNA replication 		
+MG_469	DNA replication initiation 	regulation of DNA replication 	
+MG_094	DNA replication, synthesis of RNA primer 		
+MG_438	DNA restriction-modification system 		
+MG_003	DNA topological change 		
+MG_004	DNA topological change 		
+MG_122	DNA topological change 		
+MG_203	DNA topological change 		
+MG_204	DNA topological change 		
+MG_249	DNA-templated transcription, initiation 		
+MG_428	DNA-templated transcription, initiation 		
+MG_141	DNA-templated transcription, termination 	transcription antitermination 	
+MG_006	dTDP biosynthetic process 		
+MG_227	dTMP biosynthetic process 	dTTP biosynthetic process 	
+MG_517	enterobacterial common antigen biosynthetic process 	glycerol metabolic process 	membrane lipid biosynthetic process 
+MG_145	FAD biosynthetic process 	FMN biosynthetic process 	riboflavin biosynthetic process 
+MG_482	fatty acid biosynthetic process 		
+MG_287	fatty acid biosynthetic process 		
+MG_368	fatty acid biosynthetic process 	phospholipid biosynthetic process 	
+MG_023	fructose 1,6-bisphosphate metabolic process 	glycolytic process 	
+MG_215	fructose 6-phosphate metabolic process 		
+MG_118	galactose metabolic process 		
+MG_111	gluconeogenesis 	glycolytic process 	
+MG_431	gluconeogenesis 	glycolytic process 	pentose-phosphate shunt 
+MG_430	glucose catabolic process 	glycolytic process 	
+MG_462	glutamyl-tRNA aminoacylation 		
+MG_033	glycerol metabolic process 		
+MG_369	glycerol metabolic process 		
+MG_038	glycerol-3-phosphate metabolic process 	glycerol catabolic process 	glycerol metabolic process 
+MG_228	glycine biosynthetic process 	nucleotide biosynthetic process 	one-carbon metabolic process 
+MG_394	glycine biosynthetic process 	tetrahydrofolate interconversion 	
+MG_272	glycolytic process 		
+MG_273	glycolytic process 		
+MG_274	glycolytic process 		
+MG_300	glycolytic process 		
+MG_407	glycolytic process 		
+MG_251	glycyl-tRNA aminoacylation 		
+MG_278	guanosine tetraphosphate biosynthetic process 		
+MG_013	histidine biosynthetic process 	methionine biosynthetic process 	purine nucleotide biosynthetic process 
+MG_035	histidyl-tRNA aminoacylation 		
+MG_458	IMP salvage 	purine ribonucleoside salvage 	
+MG_345	isoleucyl-tRNA aminoacylation 		
+MG_266	leucyl-tRNA aminoacylation 		
+MG_293	lipid metabolic process 		
+MG_385	lipid metabolic process 		
+MG_086	lipoprotein biosynthetic process 	protein lipoylation 	
+MG_136	lysyl-tRNA aminoacylation 		
+MG_066	metabolic process 		
+MG_021	methionyl-tRNA aminoacylation 		
+MG_130	mRNA catabolic process 		
+MG_367	mRNA processing 	rRNA catabolic process 	rRNA processing 
+MG_037	NAD biosynthetic process 		
+MG_383	NAD biosynthetic process 		
+MG_128	NAD metabolic process 	NADP biosynthetic process 	
+MG_049	nucleoside metabolic process 		
+MG_073	nucleotide-excision repair 	SOS response 	
+MG_421	nucleotide-excision repair 	SOS response 	
+MG_047	one-carbon metabolic process 	S-adenosylmethionine biosynthetic process 	
+MG_194	phenylalanyl-tRNA aminoacylation 		
+MG_195	phenylalanyl-tRNA aminoacylation 		
+MG_411	phosphate ion transmembrane transport 		
+MG_351	phosphate-containing compound metabolic process 		
+MG_114	phosphatidylglycerol biosynthetic process 		
+MG_041	phosphoenolpyruvate-dependent sugar phosphotransferase system 	regulation of transcription, DNA-templated 	transcription, DNA-templated 
+MG_062	phosphoenolpyruvate-dependent sugar phosphotransferase system 		
+MG_069	phosphoenolpyruvate-dependent sugar phosphotransferase system 		
+MG_429	phosphoenolpyruvate-dependent sugar phosphotransferase system 		
+MG_323	potassium ion transport 		
+MG_283	prolyl-tRNA aminoacylation 		
+MG_239	protein catabolic process 		
+MG_201	protein folding 		
+MG_305	protein folding 		
+MG_393	protein folding 		
+MG_072	protein import 	protein targeting 	
+MG_464	protein insertion into membrane 	protein transport 	
+MG_270	protein lipoylation 		
+MG_392	protein refolding 		
+MG_448	protein repair 	response to oxidative stress 	
+MG_055	protein secretion 		
+MG_476	protein secretion 		
+MG_077	protein transport 		
+MG_078	protein transport 		
+MG_079	protein transport 		
+MG_080	protein transport 		
+MG_170	protein transport 		
+MG_182	pseudouridine synthesis 	tRNA processing 	
+MG_209	pseudouridine synthesis 		
+MG_370	pseudouridine synthesis 		
+MG_051	pyrimidine nucleobase metabolic process 	pyrimidine nucleoside metabolic process 	
+MG_282	regulation of DNA-templated transcription, elongation 	transcription, DNA-templated 	
+MG_022	regulation of transcription, DNA-templated 	transcription, DNA-templated 	
+MG_205	regulation of transcription, DNA-templated 	transcription, DNA-templated 	
+MG_082	regulation of translation 	translation 	
+MG_098	regulation of translational fidelity 		
+MG_102	removal of superoxide radicals 		
+MG_454	response to oxidative stress 		
+MG_110	ribosome biogenesis 		
+MG_329	ribosome biogenesis 		
+MG_361	ribosome biogenesis 	translation 	
+MG_387	ribosome biogenesis 		
+MG_442	ribosome biogenesis 		
+MG_252	RNA processing 		
+MG_139	rRNA processing 		
+MG_143	rRNA processing 		
+MG_005	selenocysteinyl-tRNA(Sec) biosynthetic process 	seryl-tRNA aminoacylation 	
+MG_048	SRP-dependent cotranslational protein targeting to membrane 		
+MG_297	SRP-dependent cotranslational protein targeting to membrane 		
+MG_372	thiamine biosynthetic process 	thiamine diphosphate biosynthetic process 	tRNA thio-modification 
+MG_375	threonyl-tRNA aminoacylation 		
+MG_101	transcription, DNA-templated 		
+MG_177	transcription, DNA-templated 		
+MG_221	transcription, DNA-templated 		
+MG_340	transcription, DNA-templated 		
+MG_341	transcription, DNA-templated 		
+MG_473	translation 		
+MG_070	translation 		
+MG_081	translation 		
+MG_087	translation 		
+MG_088	translation 		
+MG_090	translation 		
+MG_092	translation 		
+MG_093	translation 		
+MG_099	translation 		
+MG_100	translation 		
+MG_106	translation 		
+MG_150	translation 		
+MG_151	translation 		
+MG_152	translation 		
+MG_153	translation 		
+MG_154	translation 		
+MG_155	translation 		
+MG_156	translation 		
+MG_157	translation 		
+MG_158	translation 		
+MG_159	translation 		
+MG_160	translation 		
+MG_161	translation 		
+MG_162	translation 		
+MG_163	translation 		
+MG_164	translation 		
+MG_165	translation 		
+MG_166	translation 		
+MG_167	translation 		
+MG_168	translation 		
+MG_169	translation 		
+MG_174	translation 		
+MG_175	translation 		
+MG_176	translation 		
+MG_178	translation 		
+MG_197	translation 		
+MG_198	translation 		
+MG_481	translation 		
+MG_232	translation 		
+MG_234	translation 		
+MG_257	translation 		
+MG_311	translation 		
+MG_325	translation 		
+MG_362	translation 		
+MG_363	translation 		
+MG_522	translation 		
+MG_417	translation 		
+MG_418	translation 		
+MG_424	translation 		
+MG_426	translation 		
+MG_435	translation 		
+MG_444	translation 		
+MG_446	translation 		
+MG_466	translation 		
+MG_043	transport 		
+MG_044	transport 		
+MG_120	transport 		
+MG_121	transport 		
+MG_179	transport 		
+MG_180	transport 		
+MG_188	transport 		
+MG_189	transport 		
+MG_289	transport 		
+MG_291	transport 		
+MG_036	tRNA aminoacylation for protein translation 		
+MG_008	tRNA modification 		
+MG_084	tRNA processing 		
+MG_295	tRNA processing 		
+MG_346	tRNA processing 		
+MG_465	tRNA processing 		
+MG_046	tRNA threonylcarbamoyladenosine modification 		
+MG_208	tRNA threonylcarbamoyladenosine modification 		
+MG_379	tRNA wobble uridine modification 		
+MG_126	tryptophanyl-tRNA aminoacylation 		
+MG_455	tyrosyl-tRNA aminoacylation 		
+MG_030	UMP salvage 	uracil salvage 	
+MG_334	valyl-tRNA aminoacylation 		
